@@ -1,5 +1,10 @@
 <h3> <center>Simples Termômetro Digital com Arduino e DHT22 </center></h3>
 
+![alt tag](https://raw.githubusercontent.com/leandrobellini/TermometroDigital/master/img/img2.jpg)
+
+![alt tag](https://raw.githubusercontent.com/leandrobellini/TermometroDigital/master/img/img1.jpeg)
+
+
 <h5>Hardware utilizado: </h5>
 <ul>
   <li>Arduino UNO</li>
@@ -9,4 +14,3 @@
 </ul>  
 
   
-![alt tag](https://raw.githubusercontent.com/leandrobellini/projetosPIC/master/keypad.PNG)
