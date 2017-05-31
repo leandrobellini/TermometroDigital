@@ -23,7 +23,6 @@ Utilizando a plataforma PlataformIO(platformio.org) e linguagem C. Biblioteca DH
 
 Referência: https://en.wikipedia.org/wiki/Seven-segment_display
 
-Display de 7 segmentos 2 digitos
 |------------------------|
 |10	   9	  8	  7 	6|
 |Vcc   G	  F 	A  	B|
