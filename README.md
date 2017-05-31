@@ -22,7 +22,7 @@ Atualização dos dados do sensor a cada 30s aproximadamente.
 ![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/esquema.jpg)
 
 <br>
-Foi usado um resistor de 10k ohm entre o pino de dados(2) e o VCC.
+Foi usado um resistor de <b>10k</b> ohm entre o pino de dados(2) e o VCC.
 
 <h5>Display</h5>
 
@@ -30,7 +30,6 @@ Referência: https://en.wikipedia.org/wiki/Seven-segment_display <br>
 Para este caso GND liga led e VCC para selecionar o digito (pin 5 e 10 do display)<br>
 Foi usado um resistor de <b>220 ohm</b> entre o VCC e o pino que seleciona o digito(pin 5 ou 10)
 
-<br>
 ![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/digts.png)
 
 
