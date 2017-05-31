@@ -21,4 +21,15 @@ Utilizando a plataforma PlataformIO(platformio.org) e linguagem C. Biblioteca DH
 
 <h5>Display</h5>
 
-![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/7_segment_display_labeled.svg)
+Referência: https://en.wikipedia.org/wiki/Seven-segment_display
+
+Display de 7 segmentos 2 digitos
+|------------------------|
+|10	   9	  8	  7 	6|
+|Vcc   G	  F 	A  	B|
+|Dig2					 |
+|------------------------|
+|1	 2	  3	  4 	 5	 |
+|D   Dp 	E  	C   Vcc  |
+|				    Dig1 |
+|------------------------|
