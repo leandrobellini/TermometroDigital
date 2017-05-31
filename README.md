@@ -28,12 +28,12 @@ Referência: https://en.wikipedia.org/wiki/Seven-segment_display
 ![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/digts.png)
 
 <h5>Ligação nos pinos do Arquino: </h5>
-A -> 9
-B -> 10
-C -> 2
-D -> 3
-E -> 4
-F -> 5
-G -> 6
-Digito 1 -> 12
-Digito 1 -> 13
+A -> 9 <br>
+B -> 10 <br>
+C -> 2 <br>
+D -> 3 <br>
+E -> 4 <br>
+F -> 5 <br>
+G -> 6 <br>
+Digito 1 -> 12 <br>
+Digito 1 -> 13 <br>
