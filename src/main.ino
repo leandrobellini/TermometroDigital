@@ -22,7 +22,7 @@ Display de 7 segmentos 2 digitos
 #include <DHT.h>
 #include <DHT_U.h>
 
-#define DHTPIN 7
+#define DHTPIN 7  //pino do sensor
 
 #define DHTTYPE DHT22
 
@@ -41,8 +41,6 @@ void setup()
   pinMode(12, OUTPUT); //Dig 1
   pinMode(13, OUTPUT); //Dig 2
 
-  Serial.begin(9600);
-  Serial.println("DHT22 Library Demo");
 }
 
 void escreveDigito(int digito, int numero){
@@ -178,7 +176,6 @@ void loop()
       return;
     }
 
-    Serial.println(t);
 
     //escreve digitos e dá tempo ao sensor
     //aprox 30s

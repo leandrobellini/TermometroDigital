@@ -13,6 +13,8 @@
 
 <h5>Software: </h5>
 Utilizando a plataforma PlataformIO(platformio.org) e linguagem C. Biblioteca DHT22 já incluida na pasta lib.
+Para dar o efeito necessário foi multiplexado os dois digitos, dando a sensação que estão ligados ao mesmo tempo.
+Atualização dos dados do sensor a cada 30s aproximadamente.
 
 
 <h5>Arduino e DHT22</h5>
@@ -24,3 +26,14 @@ Utilizando a plataforma PlataformIO(platformio.org) e linguagem C. Biblioteca DH
 Referência: https://en.wikipedia.org/wiki/Seven-segment_display
 
 ![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/digts.png)
+
+<h5>Ligação nos pinos do Arquino: </h5>
+A -> 9
+B -> 10
+C -> 2
+D -> 3
+E -> 4
+F -> 5
+G -> 6
+Digito 1 -> 12
+Digito 1 -> 13
