@@ -1,6 +1,6 @@
 <h3> <center>Simples Termômetro Digital com Arduino e DHT22 </center></h3>
 
-![alt tag](https://raw.githubusercontent.com/leandrobellini/TermometroDigital/master/img/img2.jpg)
+![alt text](https://raw.githubusercontent.com/leandrobellini/TermometroDigital/master/img/img2.jpg)
 
 
 <h5>Hardware utilizado: </h5>
@@ -16,7 +16,9 @@ Utilizando a plataforma PlataformIO(platformio.org) e linguagem C. Biblioteca DH
 
 
 <h5>Arduino e DHT22</h5>
-![alt tag](https://github.com/leandrobellini/TermometroDigital/blob/master/img/esquema.jpg)
+
+![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/esquema.jpg)
 
 <h5>Display</h5>
-![alt tag](https://github.com/leandrobellini/TermometroDigital/blob/master/img/7_segment_display_labeled.svg)
+
+![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/7_segment_display_labeled.svg)
