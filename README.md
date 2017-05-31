@@ -9,6 +9,7 @@
   <li>Sensor de temperatura DHT22</li>
   <li>Display de 7 segmentos 2 dígitos</li>
   <li>Resistores de 220 ohm</li>
+  <li>Resistores de 10K ohm</li>
 </ul>  
 
 <h5>Software: </h5>
@@ -22,7 +23,7 @@ Atualização dos dados do sensor a cada 30s aproximadamente.
 ![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/esquema.jpg)
 
 <br>
-Foi usado um resistor de <b>10k</b> ohm entre o pino de dados(2) e o VCC.
+Foi usado um resistor de <b>10K</b> ohm entre o pino de dados(2) e o VCC.
 
 <h5>Display</h5>
 
