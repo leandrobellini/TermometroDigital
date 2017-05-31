@@ -2,8 +2,6 @@
 
 ![alt tag](https://raw.githubusercontent.com/leandrobellini/TermometroDigital/master/img/img2.jpg)
 
-![alt tag](https://raw.githubusercontent.com/leandrobellini/TermometroDigital/master/img/img1.jpeg)
-
 
 <h5>Hardware utilizado: </h5>
 <ul>
@@ -13,4 +11,12 @@
   <li>Resistores de 220 ohm</li>
 </ul>  
 
-  
+<h5>Software: </h5>
+Utilizando a plataforma PlataformIO(platformio.org) e linguagem C. Biblioteca DHT22 já incluida na pasta lib.
+
+
+<h5>Arduino e DHT22</h5>
+![alt tag](https://github.com/leandrobellini/TermometroDigital/blob/master/img/esquema.jpg)
+
+<h5>Display</h5>
+![alt tag](https://github.com/leandrobellini/TermometroDigital/blob/master/img/7_segment_display_labeled.svg)
