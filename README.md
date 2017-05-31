@@ -24,6 +24,8 @@ Atualização dos dados do sensor a cada 30s aproximadamente.
 
 <br>
 Foi usado um resistor de <b>10K</b> ohm entre o pino de dados(2) e o VCC.
+<br>
+O pino de data do DHT22 foi conectado no pino digital 7 do Arduino.
 
 <h5>Display</h5>
 
