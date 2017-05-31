@@ -8,7 +8,7 @@
   <li>Arduino UNO</li>
   <li>Sensor de temperatura DHT22</li>
   <li>Display de 7 segmentos 2 dígitos</li>
-  <li>Resistores de 220 ohm</li>
+  <li>Resistores de 100 ohm</li>
   <li>Resistores de 10K ohm</li>
 </ul>  
 
@@ -31,7 +31,7 @@ O pino de data do DHT22 foi conectado no pino digital 7 do Arduino.
 
 Referência: https://en.wikipedia.org/wiki/Seven-segment_display <br> 
 Para este caso GND liga led e VCC para selecionar o digito (pin 5 e 10 do display)<br>
-Foi usado um resistor de <b>220 ohm</b> entre o VCC e o pino que seleciona o digito(pin 5 ou 10)
+Foi usado um resistor de <b>100 ohm</b> entre o VCC e o pino que seleciona o digito(pin 5 ou 10)
 
 ![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/digts.png)
 
