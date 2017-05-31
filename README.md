@@ -23,12 +23,4 @@ Utilizando a plataforma PlataformIO(platformio.org) e linguagem C. Biblioteca DH
 
 Referência: https://en.wikipedia.org/wiki/Seven-segment_display
 
-|------------------------|
-|10	   9	  8	  7 	6|
-|Vcc   G	  F 	A  	B|
-|Dig2					 |
-|------------------------|
-|1	 2	  3	  4 	 5	 |
-|D   Dp 	E  	C   Vcc  |
-|				    Dig1 |
-|------------------------|
+![alt text](https://github.com/leandrobellini/TermometroDigital/blob/master/img/digts.png)

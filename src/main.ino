@@ -1,3 +1,6 @@
+//Autor: Leandro Bellini
+
+
 /*
 Display de 7 segmentos 2 digitos
 |-----------------------|
@@ -13,7 +16,6 @@ Display de 7 segmentos 2 digitos
 
 //Digito 1 -> pino 12  (Digito a direita)
 //Digito 2 -> pino 13  (Digito a esquerda)
-
 #include "Arduino.h"
 #include <stdio.h>
 
