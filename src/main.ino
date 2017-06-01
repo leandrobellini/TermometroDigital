@@ -179,12 +179,12 @@ void loop()
 
     //escreve digitos e dá tempo ao sensor
     //aprox 30s
-    for(int i = 0; i < 1500; i++){
+    for(int i = 0; i < 10000; i++){
       escreveDigito(1, Digito1);
-      delay(10);
+      delay(1);
 
       escreveDigito(2, Digito2);
-      delay(10);
+      delay(1);
     }
 
 }
